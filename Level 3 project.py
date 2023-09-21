@@ -113,6 +113,8 @@ def how_to_play():
         "4. Left-click to dig up a tile (only if you believe there is no mine)"
     )
 
+print("Kelsey")
+
 root = tk.Tk()
 root.title("Minesweeper")
 
