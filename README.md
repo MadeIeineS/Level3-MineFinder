@@ -8,7 +8,7 @@
 
 - Simply push the code from the 'Minefinder.py' file into your python program of choice (Visual Studio Code is reccommended) and run the code.
 
-## How To Use My minefinder
+## How To Use Minefinder.py
 
 The game itself is quite simple to operate, with using the buttons that are clearly labelled as they operate 'play' beggining the game, 'Back' returning thplayer to the main screen, and 'How to Play' promting a pop-up instructing the user on the rules of the game. Here is a step-by-step runthrugh of how to play the game anyway.
 
