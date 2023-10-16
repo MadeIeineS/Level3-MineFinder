@@ -4,7 +4,7 @@
 
 - [@MadeIeineS](https://github.com/MadeIeineS)
 
-- ## How to Setup a Minefinder
+## How to Setup a Minefinder
 
 - Simply push the code from the 'MineSweeper.py' file into your python program of choice (Visual Studio Code is reccommended) and run the code.
 
