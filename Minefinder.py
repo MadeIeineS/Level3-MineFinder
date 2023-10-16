@@ -175,12 +175,12 @@ def game_window():
 
 # how_to_play function displays instructions on how to play the game.
 def how_to_play():
-    messagebox.showinfo(
-        "How to Play",
-        "1. Click one of the tiles within the grid to start the game\n"
-        "2. 10 of the squares in the grid have been assigned the 'Mine' value, and once clicked, will end the game\n"
-        "3. You'll have to try and guess your way to the end of the game, relying on instinct and luck, instead of logical thinking skills"
-    )
+  messagebox.showinfo(
+    "How to Play",
+    "1. Click one of the tiles within the grid to start the game\n"
+    "2. 10 of the squares in the grid have been assigned the 'Mine' value, and once clicked, will end the game\n"
+    "3. You'll have to try and guess your way to the end of the game, relying on instinct and luck, instead of logical thinking skills"
+)
 
 # Main application window.
 root = tk.Tk()
