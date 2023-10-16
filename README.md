@@ -6,7 +6,7 @@
 
 ## How to Setup a Minefinder
 
-- Simply push the code from the 'MineSweeper.py' file into your python program of choice (Visual Studio Code is reccommended) and run the code.
+- Simply push the code from the 'Minefinder.py' file into your python program of choice (Visual Studio Code is reccommended) and run the code.
 
 ## How To Use My minefinder
 
