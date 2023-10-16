@@ -1,5 +1,4 @@
 # MineFinder-DISC-L3-2023
-This my Level 3 Digital Science Project: The Good Morning Gamers Discord Bot
 
 ## Authors
 
@@ -7,23 +6,26 @@ This my Level 3 Digital Science Project: The Good Morning Gamers Discord Bot
 
 - ## How to Setup a Minefinder
 
+- Simply push the code from the 'MineSweeper.py' file into your python program of choice (Visual Studio Code is reccommended) and run the code.
+
 ## How To Use My minefinder
 
-My Discord bot has pretty simple easy to use commands with the command prefix: b!
+The game itself is quite simple to operate, with using the buttons that are clearly labelled as they operate 'play' beggining the game, 'Back' returning thplayer to the main screen, and 'How to Play' promting a pop-up instructing the user on the rules of the game. Here is a step-by-step runthrugh of how to play the game anyway.
 
-- b!gmg ranks - Displays the current Good Morning Gamers Points Leaderboard
-  
-- b!streak ranks - Displays the current Good Morning Gamers Streak Leaderboard
-  
-- good morning gamers - To interact with the minigame event good morning gamers
+- Once you have run the code, press 'How to Play' to review the rules.
 
-- b!set_gmg_as - An admin command that allows the admin to manunally edit the current winner of GMG
-- Example: b!set_gmg_as 944400624269811783 - Sets winner to user 944400624269811783 (The format uses discord user ID's)
+- After you have had a look at the rules, press 'ok' to return to the main screen, and press 'play' to start the game.
 
-- Good Morning Gamers resets at 12 : 00 : 00 AM NZST
+- Once you have started the game, simply start pressing squares on the grid, ten of these squares have been assigned as mines, and if you click one, the game will end.
+
+- The is, unfortunately no way to know where the mines are on the grid, so it becomes a game of luck, and guessing instead.
+
+- If you lose, the grid will be rem,oved, leaving only the back button, click this to return to the main screen, here you can press 'Play' again, to start a new game, or just leave the program.
   
 ## Requirements
-- [The latest version of python](https://www.python.org/downloads/)<br />Python 3.12 is best however Python 3.8 or higher should work fine anything lower you will run into problems. 
+- Simply having the latest version of python in order to operate all of the functions and components of the program properly.
+
+- Also ensure that the program you are using the code on is compatible with GUI functions and Tkinter, otherwise, the program will not be able to run.
 
   
 
