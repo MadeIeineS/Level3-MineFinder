@@ -177,7 +177,9 @@ def game_window():
 def how_to_play():
     messagebox.showinfo(
         "How to Play",
-        "1. Click one of the tiles within the grid to start the game\n2. 10 of the squares in the grid have been assigned the ‘Mine’ value, and once clicked, will end the game\n3. You'll have to try and guess your way to then end of the game, relying on instinct and luck, instead of logical thinking skills",
+        "1. Click one of the tiles within the grid to start the game\n2. 
+        10 of the squares in the grid have been assigned the ‘Mine’ value, and once clicked, will end the game\n3
+        . You'll have to try and guess your way to then end of the game, relying on instinct and luck, instead of logical thinking skills",
     )
 
 # Main application window.
